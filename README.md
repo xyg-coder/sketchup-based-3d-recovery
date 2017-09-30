@@ -7,8 +7,8 @@ The result can be seen in the paper "Building Reconstruction Based on Oblique Ph
 ## Effect
 | true image | model|
 |----------|-----------|
-|![image fails] (https://github.com/XinyuanGui/sketchup-based-3d-recovery/blob/master/effect1_true.png " ")|![image fails] (https://github.com/XinyuanGui/sketchup-based-3d-recovery/blob/master/effect1_model.png " ")|
-|![image fails] (https://github.com/XinyuanGui/sketchup-based-3d-recovery/blob/master/effect2_true.png " ") | ![image fails] (https://github.com/XinyuanGui/sketchup-based-3d-recovery/blob/master/effect2_model2.png " ")|
+|![image fails](https://github.com/XinyuanGui/sketchup-based-3d-recovery/blob/master/effect1_true.png " ")|![image fails](https://github.com/XinyuanGui/sketchup-based-3d-recovery/blob/master/effect1_model.png " ")|
+|![image fails](https://github.com/XinyuanGui/sketchup-based-3d-recovery/blob/master/effect2_true.png " ") | ![image fails](https://github.com/XinyuanGui/sketchup-based-3d-recovery/blob/master/effect2_model2.png " ")|
 
 ## Big range 3d-recovery effect
-![image fails] (https://github.com/XinyuanGui/sketchup-based-3d-recovery/blob/master/effect_big_range.png " ")
+![image fails](https://github.com/XinyuanGui/sketchup-based-3d-recovery/blob/master/effect_big_range.png " ")
